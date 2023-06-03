@@ -41,6 +41,13 @@ app.post('/api/notes', (req, res) => {
     res.json({message: `Note ${noteId} deleted`});
 });
 
+app.delete('/api/notes/:id', (req, res) => {
+    const noteId = req.params.id;
+    notes = notes.filter((note) => note.id !== noteId);
+    saveNotesToDb(notes);
+    res.json({message: `Deleted note ${noteId}`});
+});
+
 app.listen(PORT, () => {
     console.log(`Server listening at http://localhost:${PORT}`);
 });
