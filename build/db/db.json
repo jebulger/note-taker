@@ -1,7 +1,7 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
+        "title":"How to Use",
+        "text":"A new note can be opened up at any time by pressing the plus button in the top right corner. After selecting a new note, you will see two text boxes here. Fill both of them and you will see the save button appear in the top right. All saved messages will appear on the left hand side with a corresponding trash icon to delete them. These notes can be viewed any time by clicking on them.",
         "id": "22230"
     }
 ]
