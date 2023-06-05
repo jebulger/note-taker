@@ -18,3 +18,5 @@ To get started:
 
 ## Live Application
 [Click here to be directed to the deployed application]()
+
+### ![](./build/images/localhost_3001_notes.html.png)
