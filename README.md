@@ -17,6 +17,6 @@ To get started:
 - The application can be closed and reopened at any point, and the data will persist accurately.
 
 ## Live Application
-[Click here to be directed to the deployed application]()
+[Click here to be directed to the deployed application](https://murmuring-hamlet-80649.herokuapp.com/)
 
 ### ![](./build/images/localhost_3001_notes.html.png)
