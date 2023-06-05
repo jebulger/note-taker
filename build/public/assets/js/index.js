@@ -124,7 +124,7 @@ const renderNoteList = async (notes) => {
     noteList.forEach((el) => (el.innerHTML = ''));
   }
 
-  noteList.innerHTML = '';
+  
 
   let noteListItems = [];
 
